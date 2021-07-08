@@ -64,7 +64,7 @@
 		"@pulumi/datadog": "^2.6.0",
 		"@pulumi/docker": "^2.2.3",
 		"@pulumi/eks": "^0.19.4",
-		"@pulumi/pulumi": "^2.8.2",
+		"@pulumi/pulumi": "^2.21.0",
 		"dotenv": "^8.2.0",
 		"pg": "^8.3.0",
 		"uuid": "^8.3.0"
